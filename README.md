@@ -3,6 +3,8 @@ El repositorio contiene un proyecto de pedidos y registro de inventario, tambien
 
 La pruebas unitarias se encuentran en el archivo **cliente/src/unitarios.test.js**
 
+![https://raw.githubusercontent.com/isaias009/pedido-inventario/main/test.png]
+
 ## Integrantes
 - Arroyo Hinojosa Andre Vladimir 
 - Cardenas Calizaya Ericka Isabel
