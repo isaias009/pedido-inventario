@@ -2,7 +2,7 @@ import mongoose, { mongo } from 'mongoose';
 
 mongoose.Promise=global.Promise;
 
-mongoose.connect('mongodb://localhost/clientes',{UseNewUrlParser:true});
+mongoose.connect('mongodb://localhost:27018/clientes',{UseNewUrlParser:true});
 mongoose.set('setFindAndModify',false);
 
 //definir los clientes
