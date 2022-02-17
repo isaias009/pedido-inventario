@@ -3,7 +3,9 @@ El repositorio contiene un proyecto de pedidos y registro de inventario, tambien
 
 La pruebas unitarias se encuentran en el archivo **cliente/src/unitarios.test.js**
 
-<<<<<<< HEAD
+![](https://raw.githubusercontent.com/isaias009/pedido-inventario/main/test.png)
+
+
 
 ## Code Smells
 Archivos donde se encontraron malos olores
@@ -16,19 +18,12 @@ Archivos donde se encontraron los codigos duplicados
 - funciones - actualizarState() en los archivos NuevoProducto.js y FormularioEditarProducto.js
 
 
-=======
-![](https://raw.githubusercontent.com/isaias009/pedido-inventario/main/test.png)
->>>>>>> abb43d0513992dc16e27c109f17682d9c110c00d
 
 ## Integrantes
 - Arroyo Hinojosa Andre Vladimir 
 - Cardenas Calizaya Ericka Isabel
 - Chavez Apaza Isaias David
 - Fernandez Zurita Freddy
-<<<<<<< HEAD
-- Gabriel Escobar Ramiro (Tommy Pistola TM)
-- Torrez Gozalvez Patricia Alejandra
-=======
 - Gabriel Escobar Ramiro
 - Torrez Gozalvez Patricia Alejandra
->>>>>>> abb43d0513992dc16e27c109f17682d9c110c00d
+
