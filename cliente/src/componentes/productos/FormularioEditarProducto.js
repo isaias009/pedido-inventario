@@ -23,6 +23,12 @@ class FormularioEditar extends Component {
         const noValido=!nombre||!precio||!stock;
         return noValido;
     }
+
+
+    /* 
+        ! Codigo duplicado
+        * funciones - actualizarState() en el archivo productos/NuevoProducto.js
+    */
     actualizarState=e=>{
         this.setState({
             [e.target.name]:e.target.value

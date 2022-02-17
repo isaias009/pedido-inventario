@@ -17,6 +17,11 @@ export default class NuevoProducto extends Component{
             ...initialState
         })
     }
+
+    /* 
+        ! Codigo duplicado
+        * funciones - actualizarState() en el archivo productos/FormularioEditarProducto.js
+    */
     actualizarState=e=>{
         this.setState({
             [e.target.name]:e.target.value

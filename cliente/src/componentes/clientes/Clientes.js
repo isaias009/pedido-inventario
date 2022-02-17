@@ -20,6 +20,10 @@ class Contactos extends Component{
            
         }
     
+    /* 
+        ! Codigo duplicado
+        * funciones - paginaAnterior() | paginaSiguiente() en el archivo productos/Productos.js
+    */
     paginaAnterior =()=>{
         this.setState({
             paginator:{

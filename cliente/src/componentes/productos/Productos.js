@@ -19,6 +19,12 @@ export default class Productos extends Component{
            
         },
     }
+
+
+    /* 
+        ! Codigo duplicado
+        * funciones - paginaAnterior() | paginaSiguiente() en el archivo clientes/Clientes.js
+    */
     paginaAnterior =()=>{
         this.setState({
             paginator:{
